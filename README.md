@@ -1,6 +1,6 @@
 # EmoPairCompete - Physiological Signals Dataset for Emotion and Frustration Assessment under Team and Competitive Behaviours
 
-This is the repository for the paper [EmoPairCompete - Physiological Signals Dataset for Emotion and Frustration Assessment under Team and Competitive Behaviours](https://openreview.net/forum?id=BvgAzJX40Z) presented at the ICLR 2024 Workshop on Learning from Time Series For Health. You can find the dataset [here](https://zenodo.org/doi/10.5281/zenodo.11151713)'
+This is the repository for the paper [EmoPairCompete - Physiological Signals Dataset for Emotion and Frustration Assessment under Team and Competitive Behaviours](https://openreview.net/forum?id=BvgAzJX40Z) presented at the ICLR 2024 Workshop on Learning from Time Series For Health. You can find the dataset [here](https://zenodo.org/doi/10.5281/zenodo.11151713)
 
 ### Citation
 
